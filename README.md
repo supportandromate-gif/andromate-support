@@ -166,7 +166,6 @@ On top of task outputs, AndroMate also provides a set of built-in device variabl
 ### Open a GitHub Issue
 The best way to track your request. Use it for:
 
-- Something that is not working the way you expect
 - A task or feature you'd like to see added
 - A question about how a specific task or workflow works
 - Anything missing or unclear
